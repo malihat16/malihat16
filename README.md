@@ -1,5 +1,5 @@
 ### ABOUT ME👋
-**👋 Hi, I'm a 2nd year Software Engineering student**
+**👋 Hi, I'm a 3rd year Software Engineering student**
 <!--
 **malihat16/malihat16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

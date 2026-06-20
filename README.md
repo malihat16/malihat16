@@ -2,11 +2,13 @@
 # Hey, I'm Maliha 👋
 
 **Software engineer** — full-stack, Android & ML  
-B.SWE (Hons) · Monash University Malaysia · CGPA 3.7 · *Student of the Year*  
+B.SWE (Hons) · Monash University Malaysia · CGPA 3.7 
+
+www.linkedin.com/in/malihatariqq
+
 📍 UAE
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7A6B?style=for-the-badge&logo=vercel&logoColor=white)](https://maliha-folio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malihatariqq)
 [![Email](https://img.shields.io/badge/Email-3A2A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malihatariqqq@gmail.com)
 
 ---

@@ -3,7 +3,7 @@
 
 **Software engineer** — full-stack, Android & ML  
 B.SWE (Hons) · Monash University Malaysia · CGPA 3.7 · *Student of the Year*  
-📍 Kuala Lumpur → UAE
+📍 UAE
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7A6B?style=for-the-badge&logo=vercel&logoColor=white)](https://maliha-folio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malihatariqq)

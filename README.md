@@ -1,5 +1,4 @@
-### ABOUT ME👋
-# Hey, I'm Maliha 👋
+# Hey there!
 
 Software Engineering (Hons) @ Monash University  
 

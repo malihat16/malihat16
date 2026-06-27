@@ -1,8 +1,7 @@
 ### ABOUT ME👋
 # Hey, I'm Maliha 👋
 
-**Software engineer** — full-stack, Android & ML  
-B.SWE (Hons) · Monash University Malaysia · CGPA 3.7 
+Software Engineering (Hons) @ Monash University  
 
 www.linkedin.com/in/malihatariqq
 

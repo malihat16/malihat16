@@ -1,4 +1,4 @@
-Hi, I’m Maliha 👋
+# Hey there! I’m Maliha 👋
 
 Graduate Software Engineer from Monash University Malaysia, currently looking for software engineering roles in the UAE.
 
@@ -7,8 +7,12 @@ I build across full-stack web, Android, and ML — with experience in React, Sve
 📍 UAE
 🎓 B. Software Engineering (Honours), Monash University Malaysia
 💼 Open to graduate software engineering roles
-🌐 Portfolio · LinkedIn · Email
 
+www.linkedin.com/in/malihatariqq
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7A6B?style=for-the-badge&logo=vercel&logoColor=white)](https://maliha-folio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-3A2A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malihatariqqq@gmail.com)
 ⸻
 
 Featured Projects
